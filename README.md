@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on accessible tools that enable people of all ages and technical backgrounds to create, deploy, and share bespoke solutions for Smart Homes and Smart Manufacturing. I want consumers to be able to design and share truly bespoke things, allowing them to tailor solutions for their own needs and the specific needs of people they're making things for, such as family and neighbors.
+🔭 I’m currently working on accessible tools that enable people of all ages and technical backgrounds to create, deploy, and share solutions for Smart Homes and Smart Manufacturing. I want consumers to be able to design and share truly bespoke things, allowing them to tailor solutions for their own needs and the specific needs of people they're making things for, such as family and neighbors.
 
 🌱 I’m currently learning Generative AI, Large Language Models, and Retrieval-Augmented Generation (RAG) systems applied to Smart Cities and Sustainable Manufacturing.
