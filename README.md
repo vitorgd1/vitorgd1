@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on accessible tools that enable people of all ages and technical backgrounds to create and deploy smart home solutions - from automated blinds and pet devices to lighting and camera systems - without requiring advanced technical expertise.
+
+🌱 I’m currently learning Generative AI, Large Language Models and Retrieval-Augmented Generation (RAG) systems applied to Smart Cities and Sustainable Manufacturing.
