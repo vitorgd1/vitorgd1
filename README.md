@@ -10,7 +10,7 @@ Right now, I'm diving into **Generative AI and LLMs**, especially how they can b
 
 ### What drives me
 
-I genuinely enjoy helping others solve problems. Whether it's code review, debugging, architecture discussion, or just talking through ideas, I'm here for it. I find collaboration energizing — especially on projects that actually make a difference in people's lives.
+I genuinely enjoy helping others solve problems. Whether it's code review, debugging, architecture discussion, or just talking through ideas, I'm here for it. I find collaboration energizing - especially on projects that actually make a difference in people's lives.
 
 ### Let's connect
 
